@@ -1,7 +1,7 @@
 // Name : Adarsh Gupta
 // Date : 04/10/2022
 
-class Solution {
+class Solution{
     public:
     bool isSubsequence(string s, string t){
         int j = 0;
